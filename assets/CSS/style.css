@@ -1,7 +1,24 @@
 html, body{
+    margin: 5px;
     background-color: black;
 
 }
 .nav-link{
     color:#B3B0B0;
+}
+.oggetti{
+    padding: 5px;
+    margin:0%;
+    border: 2px solid white;
+}
+.container{
+    
+}
+h4{margin-top: 10px;
+    margin-bottom: 4px;
+    color: white;
+}
+
+#contenitoreimg{
+    padding: 3px;
 }
