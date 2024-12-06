@@ -28,3 +28,6 @@ h4{margin-top: 10px;
 .contenitorefooter{
     margin: 5% 10% 5% 20%;
 }
+.contenitorefooter, p{
+    color:#818181;
+}
